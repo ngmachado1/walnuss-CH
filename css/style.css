@@ -192,7 +192,7 @@ img.banner{
     display: block;
 }
 div.banner{
-    background-image: url("../Images/banner@2x.png");
+    background-image: url("../images/banner@2x.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
