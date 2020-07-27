@@ -36,7 +36,7 @@
             },
             {
                 "id": 5,
-                "imagen": "images/lata-AIPA.png",
+                "imagen": "images/Lata-AIPA.png",
                 "ibu": "54",
                 "alcohol": "5,6%",
                 "titulo": "Dorada-intensa",
@@ -44,7 +44,7 @@
             },
             {
                 "id": 6,
-                "imagen": "images/lata-Porter.png",
+                "imagen": "images/Lata-Porter.png",
                 "ibu": "18",
                 "alcohol": "5,8%",
                 "titulo": "Marrón-Negra",
