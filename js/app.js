@@ -60,7 +60,7 @@ function removeallToCart(id){
  
 window.onload = function () {
 
-    var urlLocal = `/js/data.json`;
+    var urlLocal = `https://github.com/ngmachado1/walnuss-CH/blob/master/js/data.json`;
 
     $.ajax({
         method: "GET",
