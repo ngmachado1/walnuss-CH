@@ -1,0 +1,113 @@
+[
+    {
+        "detalle":
+        [
+            {
+                "id": 1,
+                "imagen": "images/Lata-Scottish.png",
+                "ibu": "13",
+                "alcohol": "5,1%",
+                "titulo": "Ambar-cobriza",
+                "descripcion": "Nuestra Scottish Ale se identifica por su bajo amargor y sus suaves aromas dulces, característico de las maltas caramelo utilizadas en su cocción, lo que permite obtener una cerveza de suave dulzor y cuerpo medio, ideal para acompañar hamburguesas, pollo y excelente para comidas condimentadas. "
+            },
+            {
+                "id": 2,
+                "imagen": "images/Lata-Cream.png",
+                "ibu": "18",
+                "alcohol": "5,3%",
+                "titulo": "Dorada-pálida",
+                "descripcion": "Una verveza rubia y dorada pensada par que sea amigable a los paladares que se presentan aventurando al mundo de la cerveza artesanal. De mucha tomabilidad y refrescancia, pero con más carácter que una típica lager. <br> Con bajo amargor, cuerpo medio a bajo y leve sabor a maíz en boca, es la cerveza ideal para acompañar pollo, ensaladas y comidas livianas."
+            },
+            {
+                "id": 3,
+                "imagen": "images/Lata-Arrogante.png",
+                "ibu": "72",
+                "alcohol": "6,8%",
+                "titulo": "Dorada-intensa",
+                "descripcion": "Ella es distinta. Es única, diferente, independiente. No le gusta que la cataloguen. Le alcanza con saberse especial. <br> Ella es Arrogante. Una cerveza que se siente mas que una cerveza, con una intensidad en aromas y sabores que explotan tus sentidos."
+            },
+            {
+                "id": 4,
+                "imagen": "images/lata-pale.png",
+                "ibu": "27",
+                "alcohol": "5,3%",
+                "titulo": "Dorada-pálida",
+                "descripcion": "Nuestra Pale Ale es la mezcla exacta del amargor e intensidad que buscás en una cerveza. Dorada, pálida y muy refrescante. Se identifica por su amargor moderado y su aroma y sabor a lúpulo con notas cítricas, mango y maracuyá. es ideal apra acompañar quesos, hamburguesas y carnes."
+            },
+            {
+                "id": 5,
+                "imagen": "images/lata-AIPA.png",
+                "ibu": "54",
+                "alcohol": "5,6%",
+                "titulo": "Dorada-intensa",
+                "descripcion": "Nuestra versión americana de la clásica IPA se destaca por su característico amargor combinado con un aroma frutal y cítrico, típico de los lúpulos americanos que utlizamos en su coccioón. <br> Una cerveza refrescante y bien balanceada, óptima para acompañar hamburguesas, comidas picantes, quesos fuertes y verduras amargas."
+            },
+            {
+                "id": 6,
+                "imagen": "images/lata-Porter.png",
+                "ibu": "18",
+                "alcohol": "5,8%",
+                "titulo": "Marrón-Negra",
+                "descripcion": "Dentro del mundo de las cervezas negras, la Porter es la mas amigable al paladar. De color marrón oscuro a negro, con cuerpo y amargor medio. <br> Sus notas a chocolate tostado, son características de las maltas que la componen. La complejidad de las maltas hace que sea una cerveza bien balanceada con su amargor, acompañando perfectamente carnes y comidas condimentadas."
+            }
+        ],
+
+        "dataProduct":
+        [
+            {
+                "id": 123,
+                "imagen": "images/TIENDA/arrogante@2x.png",
+                "nombre": "Arrogante IPA",
+                "descripcion": "Lata 475 cm<sup>3</sup>",
+                "precio": 100.00,
+                "dataAos": 1000,
+                "cantidad": 1
+            },
+            {
+                "id": 212,
+                "imagen": "images/TIENDA/LATA-SCOTISH@2x.png",
+                "nombre": "Scottish Ale",
+                "descripcion": "Lata 475 cm<sup>3</sup>",
+                "precio": 100.00,
+                "dataAos": 1000,
+                "cantidad": 1
+            },
+            {
+                "id": 312,
+                "imagen": "images/TIENDA/cream@2x.png",
+                "nombre": "Cream Ale",
+                "descripcion": "Lata 475 cm<sup>3</sup>",
+                "precio": 100.00,
+                "dataAos": 1000,
+                "cantidad": 1
+            },
+            {
+                "id": 412,
+                "imagen": "images/TIENDA/porter@2x.png",
+                "nombre": "English Porter",
+                "descripcion": "Lata 475 cm<sup>3</sup>",
+                "precio": 100.00,
+                "dataAos": 1000,
+                "cantidad": 1
+            },
+            {
+                "id": 512,
+                "imagen": "images/TIENDA/pale@2x.png",
+                "nombre": "Pale Ale",
+                "descripcion": "Lata 475 cm<sup>3</sup>",
+                "precio": 100.00,
+                "dataAos": 1000,
+                "cantidad": 1
+            },
+            {
+                "id": 612,
+                "imagen": "images/TIENDA/aipa@2x.png",
+                "nombre": "American India Pale Ale",
+                "descripcion": "Lata 475 cm<sup>3</sup>",
+                "precio": 100.00,
+                "dataAos": 1000,
+                "cantidad": 1
+            }
+        ]
+    }   
+]
