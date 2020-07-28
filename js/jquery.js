@@ -266,7 +266,7 @@ function procesarCompra() {
                             <h6> Resumen de Compra </h6>
                             <div class="resumen">
                             <p>Total de compra: $${suma} </p>
-                            <p>Tu pago es con:  ${pay} </p>
+                            <p>Tu pago es con:  ${payment} </p>
                             <p>Nombre: ${name} </p>
                             <p>Teléfono: ${tel} </p>
                             <p>Dirección: ${dir} </p>
