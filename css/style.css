@@ -26,13 +26,12 @@
     background-color: #1d1d1d;
     color: white;
     overflow-x: hidden;
-
  }
 *{
     font-family: 'Lato', sans-serif;
     font-weight: 300;
     font-style: normal;
-    font-size: 18px;   
+    font-size: 16px;   
     padding: 0;
     margin: 0;
     box-sizing: border-box;
@@ -300,9 +299,7 @@ section{
 }
 
 /*tienda*/
-.nuestra-cerveza{
-    overflow-x: hidden;
-}
+
 .titulo-tienda{
     padding-top: 5em;
 }
