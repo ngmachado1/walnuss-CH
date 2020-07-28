@@ -31,7 +31,7 @@ navSlide();
 
 //  menu carrito desplegable
 function openNav() {
-    if (screen.width < 400) {
+    if (screen.width < 500) {
         document.getElementById("myCart").style.width = "350px";
     }
     else {
@@ -60,7 +60,7 @@ function removeallToCart(id){
  
 window.onload = function () {
 
-    var urlLocal = `https://github.com/ngmachado1/walnuss-CH/blob/master/js/data.json`;
+    var urlLocal = `https://ngmachado1.github.io/walnuss-CH/js/data.json`;
 
     $.ajax({
         method: "GET",
