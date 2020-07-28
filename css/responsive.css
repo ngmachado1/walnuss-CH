@@ -165,5 +165,8 @@
     @media screen and (max-height: 450px) {
         .cart {padding-top: 15px;}
         .cart a {font-size: 18px;}
+        .gif{
+            margin: auto;
+        }
       }
 }

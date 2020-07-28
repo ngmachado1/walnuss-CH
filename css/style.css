@@ -83,22 +83,22 @@ button.no:hover{
     color: black;
 }
 h1{
-    font-size: 5.5em;
+    font-size: 5.2em;
     font-family: 'Bebas Neue';
     text-align: center;
 }
 h2{
-    font-size: 4.5em;
+    font-size: 4.2em;
     font-family: 'Bebas Neue';
     text-align: center;
 }
 h3{
-    font-size: 4em;
+    font-size: 3.7em;
     font-family: 'Bebas Neue';
     text-align: center;
 }
 h4{
-    font-size: 4em;
+    font-size: 3.5em;
     font-family: 'Bebas Neue';
     text-align: center;
 }
@@ -593,7 +593,7 @@ label.error{
     margin: 10px 20%;
 }
 .gif{
-    margin: 0px 20%;
+        margin: 0px 20%;
 }
 .displayNone{
     display: none;
