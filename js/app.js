@@ -31,7 +31,7 @@ navSlide();
 
 //  menu carrito desplegable
 function openNav() {
-    if (screen.width < 400) {
+    if (screen.width < 500) {
         document.getElementById("myCart").style.width = "350px";
     }
     else {
