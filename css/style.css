@@ -300,6 +300,9 @@ section{
 }
 
 /*tienda*/
+.nuestra-cerveza{
+    overflow-x: hidden;
+}
 .titulo-tienda{
     padding-top: 5em;
 }
@@ -318,6 +321,7 @@ section.tienda{
     width: 33%;
     padding: 5% 0px;
     min-width: 200px;
+    overflow-x: hidden;
 }
 .articulo img{
     width: 90%;
