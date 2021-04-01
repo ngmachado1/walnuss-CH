@@ -12,7 +12,7 @@ function ShoppingCart() {
     this.add = function (item) {
         this.cart.push(item);
         localStorage.setItem('cart', JSON.stringify(this.cart));
-        this.buildCart('cart-container');
+        //this.buildCart('cart-container');
         this.total('total');
         this.changeIcon();
     }
