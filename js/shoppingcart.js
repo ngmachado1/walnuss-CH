@@ -13,7 +13,7 @@ function ShoppingCart() {
         this.cart.push(item);
         localStorage.setItem('cart', JSON.stringify(this.cart));
         //this.buildCart('cart-container');
-        this.total('total');
+        //this.total('total');
         this.changeIcon();
     }
 
