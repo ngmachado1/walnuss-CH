@@ -216,7 +216,6 @@ div.banner img{
 .contenedor{
     display: grid;
     grid-template-columns: 2fr 1fr 1fr;
-    height: 80vh;
 }
 .hijo{
     background-color: #1d1d1d;
